@@ -3,8 +3,11 @@
 Spoken Digit Recognition Dataset</h1>
 
 <h4 align="center">
-    Spoken Digit Recognition with Machine learning methods
+    Repository for the Statistical Learning course projec: Spoken Digit Recognition with Machine learning methods
 </h4>
+
+---
+
 
 ## Dataset: Free Spoken Digit Dataset (FSDD)
 
