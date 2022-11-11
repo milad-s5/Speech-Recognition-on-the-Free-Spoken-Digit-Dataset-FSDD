@@ -13,6 +13,7 @@ A simple audio/speech dataset consisting of recordings of spoken digits in `wav`
 FSDD is an open dataset, which means it will grow overtime as data is contributed. Thus in order to enable reproducibility and accurate citation in scientific journals the dataset is versioned using `git tags`. 
 
 ## Model and Training
+![image](https://user-images.githubusercontent.com/82322980/201336822-d300b2ef-0da3-4a5b-a5aa-948e5cb2206a.png)
 
 The `Notebook.ipynb` consists of:
 
